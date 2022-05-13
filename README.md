@@ -31,3 +31,9 @@ const int SALIDA5 = 2; // Controla el pin 2
 const int SALIDA6 = 1; // Controla el pin 1
 const int SALIDA7 = 0; // Controla el pin 0
 ```
+
+## Diagrama electronico
+
+Este es el diagrama electronico de como va :)
+
+![Diagrama](/img/contador-esquema.png)
