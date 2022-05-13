@@ -27,6 +27,15 @@ void loop() {
   digitalWrite(SALIDA6, HIGH);
   digitalWrite(SALIDA7, HIGH);
   delay(500);
+  //Cero
+  digitalWrite(SALIDA1, LOW);
+  digitalWrite(SALIDA2, LOW);
+  digitalWrite(SALIDA3, LOW);
+  digitalWrite(SALIDA4, LOW);
+  digitalWrite(SALIDA5, LOW);
+  digitalWrite(SALIDA6, LOW);
+  digitalWrite(SALIDA7, HIGH);
+  delay(1000);
   //UNO
   digitalWrite(SALIDA1, HIGH);
   digitalWrite(SALIDA2, LOW);
